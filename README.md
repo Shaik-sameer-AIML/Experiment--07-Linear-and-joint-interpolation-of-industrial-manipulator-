@@ -51,14 +51,17 @@ DART studio screen shots for joint interpolation
 
 
 
+![robo 1](https://user-images.githubusercontent.com/93427186/203059380-58a55b2d-c9cc-49f3-b4e1-cb8011088705.jpg)
 
 
 
 
 ### Robot movements 
+![robo2](https://user-images.githubusercontent.com/93427186/203059444-71a2545c-17d9-4da3-a220-d071f485f505.jpg)
 
 
 
+![robo3](https://user-images.githubusercontent.com/93427186/203059458-338ee229-6045-4aec-9eca-a546bd21c3dd.jpg)
 
 
 
@@ -71,3 +74,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
